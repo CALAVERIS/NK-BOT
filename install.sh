@@ -14,5 +14,5 @@ npm install
 npm install github:adiwajshing/baileys
 npm audit fix --force
 
-echo "[*] Sexy quien lea estoUwU \n"Use npm start ó node index.js\n"para ejecutar al bot :3"
-echo "NeKosmic-Bot : Matt M."
+echo "[*] Soy sharkcode :) \n"Use npm start ó node index.js\n"para ejecutar al bot :3"
+echo "PR1V4T3 bot : sharkcode:)."
