@@ -1,6 +1,6 @@
 const modapk = () => { 
 	return `
-📱𝔸𝕡𝕜 𝕄𝕠𝕕𝕤 *UwU* 📲
+📱APK CRACKEADAS *UwU* 📲
 
 ▪︎ Minecraft (Original)
 https://www.mediafire.com/file/4hixmktsfkhky91/Minecraft_v1.16.101.01_Terbaru.zip/file
