@@ -1,7 +1,7 @@
 #!/usr/bin/bash
 
 apt-get update
-apt-get upgrade
+apt-get upgrade 
 apt-get install nodejs
 apt-get install libwebp
 apt-get install ffmpeg
@@ -14,5 +14,5 @@ npm install
 npm install github:adiwajshing/baileys
 npm audit fix --force
 
-echo "[*] Soy sharkcode :) \n"Use npm start ó node index.js\n"para ejecutar al bot :3"
+echo "[*] Soy sharkcode :) \n"Use npm start o node index.js\n"para iniciar el bot"
 echo "PR1V4T3 bot : sharkcode:)."
