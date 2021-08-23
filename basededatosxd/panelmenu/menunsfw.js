@@ -1,6 +1,6 @@
 const menunsfw = (prefix, sender) => {
         return `
-😳 *MENU NSFW* 👌
+😳 *MENU NSFW* 🥵
  
  _*FULL H*_ 7v7r
 ╔══════════════╗
